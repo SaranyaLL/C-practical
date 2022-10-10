@@ -8,3 +8,13 @@ DAY 2 1.average and grades,2.employee salary calculation,3.area using overload,4
 
 
 DAY 3 1.area of square and rectangle,2.class degree,3.integer and character,4.integer i and j,5.money deposited and balance,6.piggie bank,7.rbi withdrawl and balance,8.rectangle with two data mumbers,9.student class,10.students with three data member,11.to print various number of different data types. DONE IN DEV C++
+
+
+
+
+DAY 4. 1.sum and product 2.class results 3.create update and display 4.area of circle using pointers 5.sum of integers 6.engineering admission 7.fruits 8.total mark
+
+
+
+
+DAY 5 1.mammals 2.fruit 3.student marks 4.vehicle 5.shapes 6.banks operating 7.bank function scenario
